@@ -1,4 +1,6 @@
-# 100 - Custom Commands
+# 100 - Commands
+
+## 100 - Custom Commands
 
 Based on "Custom Commands" at https://sourcegraph.com/docs/cody/capabilities/commands#custom-commands
 
