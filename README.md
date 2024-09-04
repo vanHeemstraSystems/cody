@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+cody
+# Cody
 
-Based on "ABC" at https://www.abc.com/
+Based on "Cody" at https://sourcegraph.com/cody
 
 ## 100 - Introduction
 
